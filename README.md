@@ -1,5 +1,6 @@
 # codepath_ios
 - Improve the UI by using different fonts/colors/background
+- GIF: https://i.imgur.com/Lk7u28l.gif
 
 # App Brainstorming
 - Countdown App:
